@@ -20,9 +20,9 @@ sys.setdefaultencoding('utf-8')
 
 
 # 配置ftp
-ip = '58.87.123.159'
-username = 'ubuntu' 
-passwd = '19911882lhl' 
+ip = 'x.x.x.x'
+username = 'xxxx' 
+passwd = 'xxxx' 
 
 class ToServer(FileSystemEventHandler):
     '''
