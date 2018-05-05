@@ -1,7 +1,0 @@
-*.py[cod]
-*.so
-*.egg
-*.egg-info
-*.bak
-log/
-.DS_Store
