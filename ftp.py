@@ -51,7 +51,7 @@ class Xfer(object):
         # ftp断开链接
         if self.ftp:  
             self.ftp.close()  
-            self.ftp.quit()
+            # self.ftp.quit(), close和quit只能选一个
             _logging.debug('### disconnect ftp server: %s!'%self.ip)  
             self.ftp = None  
     
@@ -143,7 +143,8 @@ class Xfer(object):
         '''
         try:
             self._upload(src)
-        except:
+        except Exception as e:
+            _logging.error(e)
             times -= 1
             if times>0:
                 _logging.info('======重传文件: %s ======' % src)
@@ -154,10 +155,12 @@ class Xfer(object):
         self.initEnv() 
         logging.info('+++ rename %s to %s'%(fromname, toname))
         try:
-            self.ftp.rename(fromname, toname)        
+            self.ftp.rename(fromname, toname)
+            logging.info('rename success: %s' %fromname)
         except Exception as e:
+            _logging.error(e)
             logging.info('rename fail %s : %s' %(fromname, e))
-        logging.info('rename success: %s' %fromname)
+
         self.clearEnv()   
 
 

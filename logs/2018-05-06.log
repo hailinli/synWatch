@@ -1,0 +1,4 @@
+2018-05-06 04:19:38,927 [/Users/lihailin/Repository/synWatch/ftp.pyc:128] [INFO]- +++ uploading directory craw
+2018-05-06 04:19:38,939 [/Users/lihailin/Repository/synWatch/ftp.pyc:66] [INFO]- +++ uploading craw/urlib_learn.py to 58.87.123.159:urlib_learn.py
+2018-05-06 04:19:39,047 [/Users/lihailin/Repository/synWatch/ftp.pyc:69] [INFO]- upload success: craw/urlib_learn.py 
+2018-05-06 04:19:39,060 [/Users/lihailin/Repository/synWatch/ftp.pyc:131] [INFO]- upload directory sucess: craw
