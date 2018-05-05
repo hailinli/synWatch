@@ -120,7 +120,7 @@ class Xfer(object):
         desSrc = self.walkLastServer(src)
         if os.path.isdir(desSrc):  
             try:    
-                self.ftp.mkd(desSrc)    
+                self.ftp.mkd(src)    
             except:
                 pass
             try:
@@ -129,10 +129,11 @@ class Xfer(object):
                 self.uploadDir(desSrc, desSrc)
                 log_s = "upload directory sucess: %s" % desSrc 
                 _logging.info(log_s)  
-            except:
+            except Exception as e:
+                _logging.error(e)
                 log_s = "upload directory fail: %s" % desSrc 
                 _logging.info(log_s)  
-        elif os.path.isfile(desSrc):  
+        elif os.path.isfile(src):  
             self.uploadFile(src, desSrc)
         self.clearEnv()    
     

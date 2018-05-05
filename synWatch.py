@@ -22,12 +22,21 @@ sys.setdefaultencoding('utf-8')
 # 配置ftp
 ip = 'x.x.x.x'
 username = 'xxxx' 
-passwd = 'xxxx' 
+passwd = 'xxxx'
 
 class ToServer(FileSystemEventHandler):
     '''
     将本地文件变化事件记录到日志中，并上传到服务器
     '''
+    def __init__(self, path, ip, username, passwd):
+        super(ToServer, self).__init__()
+        # 配置ftp服务器
+        self.xfer = ftp.Xfer()  
+        self.xfer.setFtpParams(ip, username, passwd)
+        # 开启服务时上传一遍文件至远程文件夹
+        self.xfer.upload(path)
+
+
     def on_any_event(self, event):
         # 将发生过的事件写入日志
         if event.is_directory:
@@ -38,14 +47,13 @@ class ToServer(FileSystemEventHandler):
         # print log_s
         _logging.info(log_s)
 
+
     def on_created(self, event):  
         # 仅上传文件
         if event.is_directory:
             return  
-        xfer.upload(event.src_path)
-        log_s = "upload file: %s " % event.src_path
-        _logging.info(log_s)
-        
+        self.xfer.upload(event.src_path)
+                
 
     def on_modified(self, event):  
         self.on_created(event)
@@ -55,22 +63,14 @@ class ToServer(FileSystemEventHandler):
         '''
         服务器中的文件进行移动
         '''
-        xfer.rename(event.src_path, event.dest_path)
-        log_s = "move file: %s to %s" % (event.src_path, event.dest_path) 
-        _logging.info(log_s)
+        self.xfer.rename(event.src_path, event.dest_path)
+        # log_s = "move file: %s to %s" % (event.src_path, event.dest_path) 
+        # _logging.info(log_s)
 
 
 if __name__ == "__main__":
-    # 配置ftp服务器
-    xfer = ftp.Xfer()  
-    xfer.setFtpParams(ip, username, passwd)
-
     path = sys.argv[1] if len(sys.argv) > 1 else '.'
-
-    # 开启服务时上传一遍文件至远程文件夹
-    xfer.upload(path)
-     
-    event_handler = ToServer()  
+    event_handler = ToServer(path, ip, username, passwd)  
     observer = Observer()  
     observer.schedule(event_handler, path, recursive=True)  
     observer.start()  
