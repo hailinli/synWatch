@@ -3,5 +3,5 @@
 *.egg
 *.egg-info
 *.bak
-log/
+logs/*
 .DS_Store

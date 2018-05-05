@@ -1,119 +1,13 @@
-2018-05-06 05:09:13,965 [/Users/lihailin/Repository/synWatch/ftp.py:128] [INFO]- +++ uploading directory craw
-2018-05-06 05:09:13,976 [/Users/lihailin/Repository/synWatch/ftp.py:66] [INFO]- +++ uploading craw/urlib_learn.py to 58.87.123.159:urlib_learn.py
-2018-05-06 05:09:14,055 [/Users/lihailin/Repository/synWatch/ftp.py:69] [INFO]- upload success: craw/urlib_learn.py 
-2018-05-06 05:09:14,056 [/Users/lihailin/Repository/synWatch/ftp.py:66] [INFO]- +++ uploading craw/urlib_learn副本.py to 58.87.123.159:urlib_learn副本.py
-2018-05-06 05:09:14,120 [/Users/lihailin/Repository/synWatch/ftp.py:69] [INFO]- upload success: craw/urlib_learn副本.py 
-2018-05-06 05:09:14,130 [/Users/lihailin/Repository/synWatch/ftp.py:131] [INFO]- upload directory sucess: craw
-2018-05-06 05:09:44,465 [/Users/lihailin/Repository/synWatch/synWatch.py:48] [INFO]- modified file: craw/urlib_learn.py 
-2018-05-06 05:09:52,949 [/Users/lihailin/Repository/synWatch/synWatch.py:48] [INFO]- modified file: craw/urlib_learn.py 
-2018-05-06 05:09:57,807 [/Users/lihailin/Repository/synWatch/synWatch.py:48] [INFO]- modified file: craw/urlib_learn.py 
-2018-05-06 05:09:58,118 [/Users/lihailin/Repository/synWatch/synWatch.py:48] [INFO]- modified file: craw/urlib_learn.py 
-2018-05-06 05:10:00,930 [/Users/lihailin/Repository/synWatch/synWatch.py:48] [INFO]- modified file: craw/urlib_learn.py 
-2018-05-06 05:12:38,788 [/Users/lihailin/Repository/synWatch/ftp.py:129] [INFO]- +++ uploading directory craw
-2018-05-06 05:12:38,805 [/Users/lihailin/Repository/synWatch/ftp.py:67] [INFO]- +++ uploading craw/urlib_learn.py to 58.87.123.159:urlib_learn.py
-2018-05-06 05:12:38,868 [/Users/lihailin/Repository/synWatch/ftp.py:70] [INFO]- upload success: craw/urlib_learn.py 
-2018-05-06 05:12:38,869 [/Users/lihailin/Repository/synWatch/ftp.py:67] [INFO]- +++ uploading craw/urlib_learn副本.py to 58.87.123.159:urlib_learn副本.py
-2018-05-06 05:12:38,938 [/Users/lihailin/Repository/synWatch/ftp.py:70] [INFO]- upload success: craw/urlib_learn副本.py 
-2018-05-06 05:12:38,956 [/Users/lihailin/Repository/synWatch/ftp.py:132] [INFO]- upload directory sucess: craw
-2018-05-06 05:12:48,973 [/Users/lihailin/Repository/synWatch/synWatch.py:48] [INFO]- modified file: craw/urlib_learn.py 
-2018-05-06 05:12:54,712 [/Users/lihailin/Repository/synWatch/synWatch.py:48] [INFO]- modified file: craw/urlib_learn.py 
-2018-05-06 05:13:31,305 [/Users/lihailin/Repository/synWatch/ftp.py:130] [INFO]- +++ uploading directory craw
-2018-05-06 05:13:31,317 [/Users/lihailin/Repository/synWatch/ftp.py:67] [INFO]- +++ uploading craw/urlib_learn.py to 58.87.123.159:urlib_learn.py
-2018-05-06 05:13:31,388 [/Users/lihailin/Repository/synWatch/ftp.py:70] [INFO]- upload success: craw/urlib_learn.py 
-2018-05-06 05:13:31,389 [/Users/lihailin/Repository/synWatch/ftp.py:67] [INFO]- +++ uploading craw/urlib_learn副本.py to 58.87.123.159:urlib_learn副本.py
-2018-05-06 05:13:31,468 [/Users/lihailin/Repository/synWatch/ftp.py:70] [INFO]- upload success: craw/urlib_learn副本.py 
-2018-05-06 05:13:31,478 [/Users/lihailin/Repository/synWatch/ftp.py:133] [INFO]- upload directory sucess: craw
-2018-05-06 05:13:38,676 [/Users/lihailin/Repository/synWatch/synWatch.py:48] [INFO]- modified file: craw/urlib_learn.py 
-2018-05-06 05:15:03,570 [/Users/lihailin/Repository/synWatch/ftp.py:130] [INFO]- +++ uploading directory craw
-2018-05-06 05:15:03,582 [/Users/lihailin/Repository/synWatch/ftp.py:67] [INFO]- +++ uploading craw/urlib_learn.py to 58.87.123.159:urlib_learn.py
-2018-05-06 05:15:03,648 [/Users/lihailin/Repository/synWatch/ftp.py:70] [INFO]- upload success: craw/urlib_learn.py 
-2018-05-06 05:15:03,648 [/Users/lihailin/Repository/synWatch/ftp.py:67] [INFO]- +++ uploading craw/urlib_learn副本.py to 58.87.123.159:urlib_learn副本.py
-2018-05-06 05:15:03,712 [/Users/lihailin/Repository/synWatch/ftp.py:70] [INFO]- upload success: craw/urlib_learn副本.py 
-2018-05-06 05:15:03,723 [/Users/lihailin/Repository/synWatch/ftp.py:133] [INFO]- upload directory sucess: craw
-2018-05-06 05:15:08,739 [/Users/lihailin/Repository/synWatch/synWatch.py:48] [INFO]- modified file: craw/urlib_learn.py 
-2018-05-06 05:15:09,049 [/Users/lihailin/Repository/synWatch/synWatch.py:48] [INFO]- modified file: craw/urlib_learn.py 
-2018-05-06 05:17:14,566 [/Users/lihailin/Repository/synWatch/ftp.py:131] [INFO]- +++ uploading directory craw
-2018-05-06 05:17:14,576 [/Users/lihailin/Repository/synWatch/ftp.py:67] [INFO]- +++ uploading craw/urlib_learn.py to 58.87.123.159:urlib_learn.py
-2018-05-06 05:17:14,648 [/Users/lihailin/Repository/synWatch/ftp.py:70] [INFO]- upload success: craw/urlib_learn.py 
-2018-05-06 05:17:14,649 [/Users/lihailin/Repository/synWatch/ftp.py:67] [INFO]- +++ uploading craw/urlib_learn副本.py to 58.87.123.159:urlib_learn副本.py
-2018-05-06 05:17:14,717 [/Users/lihailin/Repository/synWatch/ftp.py:70] [INFO]- upload success: craw/urlib_learn副本.py 
-2018-05-06 05:17:14,726 [/Users/lihailin/Repository/synWatch/ftp.py:134] [INFO]- upload directory sucess: craw
-2018-05-06 05:17:21,506 [/Users/lihailin/Repository/synWatch/synWatch.py:48] [INFO]- modified file: craw/urlib_learn.py 
-2018-05-06 05:17:31,539 [/Users/lihailin/Repository/synWatch/synWatch.py:48] [INFO]- modified file: craw/urlib_learn.py 
-2018-05-06 05:17:34,559 [/Users/lihailin/Repository/synWatch/synWatch.py:48] [INFO]- modified file: craw/urlib_learn.py 
-2018-05-06 05:20:05,085 [/Users/lihailin/Repository/synWatch/ftp.py:131] [INFO]- +++ uploading directory craw
-2018-05-06 05:20:05,098 [/Users/lihailin/Repository/synWatch/ftp.py:67] [INFO]- +++ uploading craw/urlib_learn.py to 58.87.123.159:urlib_learn.py
-2018-05-06 05:20:05,179 [/Users/lihailin/Repository/synWatch/ftp.py:70] [INFO]- upload success: craw/urlib_learn.py 
-2018-05-06 05:20:05,180 [/Users/lihailin/Repository/synWatch/ftp.py:67] [INFO]- +++ uploading craw/urlib_learn副本.py to 58.87.123.159:urlib_learn副本.py
-2018-05-06 05:20:05,244 [/Users/lihailin/Repository/synWatch/ftp.py:70] [INFO]- upload success: craw/urlib_learn副本.py 
-2018-05-06 05:20:05,253 [/Users/lihailin/Repository/synWatch/ftp.py:134] [INFO]- upload directory sucess: craw
-2018-05-06 05:20:16,933 [/Users/lihailin/Repository/synWatch/synWatch.py:48] [INFO]- modified file: craw/urlib_learn.py 
-2018-05-06 05:20:50,373 [/Users/lihailin/Repository/synWatch/ftp.py:131] [INFO]- +++ uploading directory craw
-2018-05-06 05:20:50,384 [/Users/lihailin/Repository/synWatch/ftp.py:67] [INFO]- +++ uploading craw/urlib_learn.py to 58.87.123.159:urlib_learn.py
-2018-05-06 05:20:50,454 [/Users/lihailin/Repository/synWatch/ftp.py:70] [INFO]- upload success: craw/urlib_learn.py 
-2018-05-06 05:20:50,454 [/Users/lihailin/Repository/synWatch/ftp.py:67] [INFO]- +++ uploading craw/urlib_learn副本.py to 58.87.123.159:urlib_learn副本.py
-2018-05-06 05:20:50,522 [/Users/lihailin/Repository/synWatch/ftp.py:70] [INFO]- upload success: craw/urlib_learn副本.py 
-2018-05-06 05:20:50,534 [/Users/lihailin/Repository/synWatch/ftp.py:134] [INFO]- upload directory sucess: craw
-2018-05-06 05:21:11,919 [/Users/lihailin/Repository/synWatch/ftp.py:131] [INFO]- +++ uploading directory craw
-2018-05-06 05:21:11,928 [/Users/lihailin/Repository/synWatch/ftp.py:67] [INFO]- +++ uploading craw/urlib_learn.py to 58.87.123.159:urlib_learn.py
-2018-05-06 05:21:12,028 [/Users/lihailin/Repository/synWatch/ftp.py:70] [INFO]- upload success: craw/urlib_learn.py 
-2018-05-06 05:21:12,029 [/Users/lihailin/Repository/synWatch/ftp.py:67] [INFO]- +++ uploading craw/urlib_learn副本.py to 58.87.123.159:urlib_learn副本.py
-2018-05-06 05:21:12,097 [/Users/lihailin/Repository/synWatch/ftp.py:70] [INFO]- upload success: craw/urlib_learn副本.py 
-2018-05-06 05:21:12,107 [/Users/lihailin/Repository/synWatch/ftp.py:134] [INFO]- upload directory sucess: craw
-2018-05-06 05:21:57,695 [/Users/lihailin/Repository/synWatch/synWatch.py:48] [INFO]- modified file: craw/urlib_learn.py 
-2018-05-06 05:22:17,340 [/Users/lihailin/Repository/synWatch/synWatch.py:48] [INFO]- modified file: craw/urlib_learn.py 
-2018-05-06 05:22:48,586 [/Users/lihailin/Repository/synWatch/synWatch.py:48] [INFO]- modified file: craw/urlib_learn.py 
-2018-05-06 05:27:06,057 [/Users/lihailin/Repository/synWatch/ftp.py:132] [INFO]- +++ uploading directory craw
-2018-05-06 05:27:06,066 [/Users/lihailin/Repository/synWatch/ftp.py:67] [INFO]- +++ uploading craw/urlib_learn.py to 58.87.123.159:urlib_learn.py
-2018-05-06 05:27:06,140 [/Users/lihailin/Repository/synWatch/ftp.py:70] [INFO]- upload success: craw/urlib_learn.py 
-2018-05-06 05:27:06,141 [/Users/lihailin/Repository/synWatch/ftp.py:67] [INFO]- +++ uploading craw/urlib_learn副本.py to 58.87.123.159:urlib_learn副本.py
-2018-05-06 05:27:06,208 [/Users/lihailin/Repository/synWatch/ftp.py:70] [INFO]- upload success: craw/urlib_learn副本.py 
-2018-05-06 05:27:06,219 [/Users/lihailin/Repository/synWatch/ftp.py:135] [INFO]- upload directory sucess: craw
-2018-05-06 05:27:10,001 [/Users/lihailin/Repository/synWatch/synWatch.py:48] [INFO]- modified file: craw/urlib_learn.py 
-2018-05-06 05:27:14,507 [/Users/lihailin/Repository/synWatch/synWatch.py:48] [INFO]- modified file: craw/urlib_learn.py 
-2018-05-06 05:30:21,794 [/Users/lihailin/Repository/synWatch/ftp.py:132] [INFO]- +++ uploading directory craw
-2018-05-06 05:30:21,803 [/Users/lihailin/Repository/synWatch/ftp.py:67] [INFO]- +++ uploading craw/urlib_learn.py to 58.87.123.159:urlib_learn.py
-2018-05-06 05:30:22,091 [/Users/lihailin/Repository/synWatch/ftp.py:70] [INFO]- upload success: craw/urlib_learn.py 
-2018-05-06 05:30:22,092 [/Users/lihailin/Repository/synWatch/ftp.py:67] [INFO]- +++ uploading craw/urlib_learn副本.py to 58.87.123.159:urlib_learn副本.py
-2018-05-06 05:30:22,158 [/Users/lihailin/Repository/synWatch/ftp.py:70] [INFO]- upload success: craw/urlib_learn副本.py 
-2018-05-06 05:30:22,169 [/Users/lihailin/Repository/synWatch/ftp.py:135] [INFO]- upload directory sucess: craw
-2018-05-06 05:30:44,203 [/Users/lihailin/Repository/synWatch/synWatch.py:48] [INFO]- modified file: craw/urlib_learn.py 
-2018-05-06 05:32:38,604 [/Users/lihailin/Repository/synWatch/ftp.py:128] [INFO]- +++ uploading directory craw
-2018-05-06 05:32:38,614 [/Users/lihailin/Repository/synWatch/ftp.py:66] [INFO]- +++ uploading craw/urlib_learn.py to 58.87.123.159:urlib_learn.py
-2018-05-06 05:32:38,691 [/Users/lihailin/Repository/synWatch/ftp.py:69] [INFO]- upload success: craw/urlib_learn.py 
-2018-05-06 05:32:38,692 [/Users/lihailin/Repository/synWatch/ftp.py:66] [INFO]- +++ uploading craw/urlib_learn副本.py to 58.87.123.159:urlib_learn副本.py
-2018-05-06 05:32:38,775 [/Users/lihailin/Repository/synWatch/ftp.py:69] [INFO]- upload success: craw/urlib_learn副本.py 
-2018-05-06 05:32:38,786 [/Users/lihailin/Repository/synWatch/ftp.py:131] [INFO]- upload directory sucess: craw
-2018-05-06 05:32:49,921 [/Users/lihailin/Repository/synWatch/synWatch.py:48] [INFO]- modified file: craw/urlib_learn.py 
-2018-05-06 05:32:50,005 [/Users/lihailin/Repository/synWatch/ftp.py:66] [INFO]- +++ uploading craw/urlib_learn.py to 58.87.123.159:urlib_learn.py
-2018-05-06 05:32:50,073 [/Users/lihailin/Repository/synWatch/ftp.py:69] [INFO]- upload success: craw/urlib_learn.py 
-2018-05-06 05:33:40,548 [/Users/lihailin/Repository/synWatch/synWatch.py:48] [INFO]- modified file: craw/urlib_learn.py 
-2018-05-06 05:33:41,021 [/Users/lihailin/Repository/synWatch/ftp.py:66] [INFO]- +++ uploading craw/urlib_learn.py to 58.87.123.159:urlib_learn.py
-2018-05-06 05:33:41,328 [/Users/lihailin/Repository/synWatch/ftp.py:69] [INFO]- upload success: craw/urlib_learn.py 
-2018-05-06 05:33:50,430 [/Users/lihailin/Repository/synWatch/synWatch.py:48] [INFO]- modified file: craw/urlib_learn.py 
-2018-05-06 05:33:50,524 [/Users/lihailin/Repository/synWatch/ftp.py:66] [INFO]- +++ uploading craw/urlib_learn.py to 58.87.123.159:urlib_learn.py
-2018-05-06 05:33:50,812 [/Users/lihailin/Repository/synWatch/ftp.py:69] [INFO]- upload success: craw/urlib_learn.py 
-2018-05-06 05:34:04,747 [/Users/lihailin/Repository/synWatch/synWatch.py:48] [INFO]- modified file: craw/urlib_learn.py 
-2018-05-06 05:34:04,835 [/Users/lihailin/Repository/synWatch/ftp.py:66] [INFO]- +++ uploading craw/urlib_learn.py to 58.87.123.159:urlib_learn.py
-2018-05-06 05:34:04,902 [/Users/lihailin/Repository/synWatch/ftp.py:69] [INFO]- upload success: craw/urlib_learn.py 
-2018-05-06 05:34:47,033 [/Users/lihailin/Repository/synWatch/synWatch.py:48] [INFO]- deleted file: craw/urlib_learn副本.py 
-2018-05-06 05:34:47,033 [/Users/lihailin/Repository/synWatch/synWatch.py:48] [INFO]- modified directory: craw 
-2018-05-06 05:35:11,876 [/Users/lihailin/Repository/synWatch/synWatch.py:48] [INFO]- moved file: craw/urlib_learn.py 
-2018-05-06 05:35:11,947 [root:157] [INFO]- +++ rename craw/urlib_learn.py to craw/urlib_learn1.py
-2018-05-06 05:35:11,978 [root:160] [INFO]- rename success: craw/urlib_learn.py
-2018-05-06 05:35:11,979 [/Users/lihailin/Repository/synWatch/synWatch.py:48] [INFO]- modified directory: craw 
-2018-05-06 05:35:59,928 [/Users/lihailin/Repository/synWatch/synWatch.py:48] [INFO]- created file: craw/urlib_learn1副本.py 
-2018-05-06 05:36:00,002 [/Users/lihailin/Repository/synWatch/ftp.py:66] [INFO]- +++ uploading craw/urlib_learn1副本.py to 58.87.123.159:urlib_learn1副本.py
-2018-05-06 05:36:00,068 [/Users/lihailin/Repository/synWatch/ftp.py:69] [INFO]- upload success: craw/urlib_learn1副本.py 
-2018-05-06 05:36:00,068 [/Users/lihailin/Repository/synWatch/synWatch.py:48] [INFO]- modified directory: craw 
-2018-05-06 05:36:32,224 [/Users/lihailin/Repository/synWatch/synWatch.py:48] [INFO]- created file: craw/tensorflow_learning/MNIST_data/.DS_Store 
-2018-05-06 05:36:32,391 [/Users/lihailin/Repository/synWatch/ftp.py:66] [INFO]- +++ uploading craw/tensorflow_learning/MNIST_data/.DS_Store to 58.87.123.159:.DS_Store
-2018-05-06 05:36:32,476 [/Users/lihailin/Repository/synWatch/ftp.py:69] [INFO]- upload success: craw/tensorflow_learning/MNIST_data/.DS_Store 
-2018-05-06 05:36:32,476 [/Users/lihailin/Repository/synWatch/synWatch.py:48] [INFO]- created file: craw/tensorflow_learning/tensorflow_start.py 
-2018-05-06 05:36:32,573 [/Users/lihailin/Repository/synWatch/ftp.py:66] [INFO]- +++ uploading craw/tensorflow_learning/tensorflow_start.py to 58.87.123.159:tensorflow_start.py
-2018-05-06 05:36:32,640 [/Users/lihailin/Repository/synWatch/ftp.py:69] [INFO]- upload success: craw/tensorflow_learning/tensorflow_start.py 
-2018-05-06 05:36:32,641 [/Users/lihailin/Repository/synWatch/synWatch.py:48] [INFO]- created file: craw/tensorflow_learning/MNIST_data/t10k-labels-idx1-ubyte.gz 
-2018-05-06 05:36:32,765 [/Users/lihailin/Repository/synWatch/ftp.py:66] [INFO]- +++ uploading craw/tensorflow_learning/MNIST_data/t10k-labels-idx1-ubyte.gz to 58.87.123.159:t10k-labels-idx1-ubyte.gz
-2018-05-06 05:36:32,844 [/Users/lihailin/Repository/synWatch/ftp.py:69] [INFO]- upload success: craw/tensorflow_learning/MNIST_data/t10k-labels-idx1-ubyte.gz 
-2018-05-06 05:36:32,844 [/Users/lihailin/Repository/synWatch/synWatch.py:48] [INFO]- created file: craw/tensorflow_learning/MNIST_data/t10k-images-idx3-ubyte 
-2018-05-06 05:36:32,991 [/Users/lihailin/Repository/synWatch/ftp.py:66] [INFO]- +++ uploading craw/tensorflow_learning/MNIST_data/t10k-images-idx3-ubyte to 58.87.123.159:t10k-images-idx3-ubyte
+2018-05-06 05:47:42,328 [/Users/lihailin/Repository/synWatch/ftp.pyc:128] [INFO]- +++ uploading directory craw
+2018-05-06 05:47:42,338 [/Users/lihailin/Repository/synWatch/ftp.pyc:66] [INFO]- +++ uploading craw/.DS_Store to 58.87.123.159:.DS_Store
+2018-05-06 05:47:42,424 [/Users/lihailin/Repository/synWatch/ftp.pyc:69] [INFO]- upload success: craw/.DS_Store 
+2018-05-06 05:47:42,425 [/Users/lihailin/Repository/synWatch/ftp.pyc:66] [INFO]- +++ uploading craw/urlib_learn.py to 58.87.123.159:urlib_learn.py
+2018-05-06 05:47:42,494 [/Users/lihailin/Repository/synWatch/ftp.pyc:69] [INFO]- upload success: craw/urlib_learn.py 
+2018-05-06 05:47:42,494 [/Users/lihailin/Repository/synWatch/ftp.pyc:66] [INFO]- +++ uploading craw/urlib_learn1.py to 58.87.123.159:urlib_learn1.py
+2018-05-06 05:47:42,552 [/Users/lihailin/Repository/synWatch/ftp.pyc:69] [INFO]- upload success: craw/urlib_learn1.py 
+2018-05-06 05:47:42,561 [/Users/lihailin/Repository/synWatch/ftp.pyc:131] [INFO]- upload directory sucess: craw
+2018-05-06 05:47:59,268 [../Repository/synWatch/synWatch.py:48] [INFO]- deleted file: craw/urlib_learn1.py 
+2018-05-06 05:47:59,268 [../Repository/synWatch/synWatch.py:48] [INFO]- modified directory: craw 
+2018-05-06 05:48:04,099 [../Repository/synWatch/synWatch.py:48] [INFO]- modified file: craw/.DS_Store 
+2018-05-06 05:48:04,194 [/Users/lihailin/Repository/synWatch/ftp.pyc:66] [INFO]- +++ uploading craw/.DS_Store to 58.87.123.159:.DS_Store
+2018-05-06 05:48:04,269 [/Users/lihailin/Repository/synWatch/ftp.pyc:69] [INFO]- upload success: craw/.DS_Store 
