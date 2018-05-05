@@ -34,4 +34,12 @@
 python synWatch.py yourpath
 ```
 
+------
+
+## 环境
+1. MacOS X 10.11.6
+2. python2.7
+3. watchdog 0.83 
+
+
 
